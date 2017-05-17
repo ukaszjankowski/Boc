@@ -45,7 +45,6 @@
     <Compile Include="IModelBinding.cs" />
     <Compile Include="ModelBinding.cs" />
     <Compile Include="ModelBindingFactory.cs" />
-    <Compile Include="ModelBindingKey.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
