@@ -1,8 +1,8 @@
-﻿using Boc.Tests.Models;
-using Xunit;
-
-namespace Boc.Tests
+﻿namespace Boc.Tests
 {
+    using Boc.Tests.Models;
+    using Xunit;
+
     public class ModelBindingTests
     {
         [Fact]
